@@ -11,8 +11,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="buble.vi" Type="VI" URL="../buble.vi"/>
-		<Item Name="bubles.vi" Type="VI" URL="../bubles.vi"/>
+		<Item Name="bubble.vi" Type="VI" URL="../bubble.vi"/>
+		<Item Name="bubbles.vi" Type="VI" URL="../bubbles.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
